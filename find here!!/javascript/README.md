@@ -2,7 +2,7 @@
 
 **Year Created:**  1995
 
-**Creator:**Brendan Eich (Netscape)
+**Creator:** Brendan Eich (Netscape)
 
 ---
 
