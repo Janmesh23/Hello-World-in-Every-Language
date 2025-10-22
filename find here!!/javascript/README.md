@@ -49,7 +49,11 @@ Place `hello.js` and `hello.html` in the same folder (e.g., `javascript/`).
 </html>
 
 
+
+```
+
 # 🖨️ Output
+
 ```
 Hello, World!
 
